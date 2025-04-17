@@ -19,5 +19,5 @@ Hi I'm Grace. I'm a first-year PhD student in the MLD department at CMU. I'm int
 
 **Binary Climate Visuals Heighten Perceived Impact of Climate Change**\
 **Grace Liu**, Jake Snell, Tom Griffiths, and Rachit Dubey\
-*Nature Human Behavior (in press)* \
-[Paper](https://rachit-dubey.github.io/images/binary_climate_ms.pdf) | [Code](https://github.com/graliuce/climate_change_detection)
+*Nature Human Behavior* \
+[Paper](https://osf.io/t3pj5_v1) | [Code](https://github.com/graliuce/climate_change_detection)
