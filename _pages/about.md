@@ -10,11 +10,11 @@ Hi I'm Grace. I'm a second-year PhD student in the MLD department at CMU. I rese
 
 ## Publications
 **CaRT: Teaching LLM Agents to Know When They Know Enough**\
-**Grace Liu&ast;**, Yuxiao Qu&ast;, Jeff Schneider, Aarti Singh, Aviral Kumar \
+**Grace Liu^**, Yuxiao Qu^, Jeff Schneider, Aarti Singh, Aviral Kumar \
 [Paper](https://arxiv.org/abs/2510.08517) | [Website](https://graliuce.github.io/cart-page/)
 
 **Demystifying the Mechanisms Behind Emergent Exploration in Goal-conditioned RL** \
-Mahsa Bastankhah&ast;, **Grace Liu&ast;**, Dilip Arumugam, Thomas L. Griffiths, Benjamin Eysenbach \
+Mahsa Bastankhah^, **Grace Liu^**, Dilip Arumugam, Thomas L. Griffiths, Benjamin Eysenbach \
 *NYRL Workshop 2025 (Oral)* \
 [Paper](https://arxiv.org/abs/2510.14129) | [Website](https://mahsa-bastankhah.github.io/demystifying-single-goal-exploration/)
 
@@ -30,4 +30,4 @@ Mahsa Bastankhah&ast;, **Grace Liu&ast;**, Dilip Arumugam, Thomas L. Griffiths, 
 Media coverage: [Guardian](https://www.theguardian.com/news/2025/jul/24/boiling-frog-effect-makes-people-oblivious-to-threat-of-climate-crisis-shows-study), [Grist](https://grist.org/science/break-through-climate-apathy-data-visualization-lake-freezing-study/), [Gizmodo](https://gizmodo.com/study-uncovers-the-one-thing-that-cuts-through-climate-apathy-loss-2000598328)\
 Invited Op-eds: [New Scientist](https://www.newscientist.com/article/mg26635491-600-why-climate-change-fades-into-the-background-and-how-to-change-that/)
 
-
+^ denotes equal contribution
