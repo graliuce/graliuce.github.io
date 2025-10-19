@@ -10,11 +10,11 @@ Hi I'm Grace. I'm a second-year PhD student in the MLD department at CMU. I rese
 
 ## Publications
 **CaRT: Teaching LLM Agents to Know When They Know Enough**\
-**Grace Liu\\***, Yuxiao Qu\\*, Jeff Schneider, Aarti Singh, Aviral Kumar \
+**Grace Liu&ast;**, Yuxiao Qu&ast;, Jeff Schneider, Aarti Singh, Aviral Kumar \
 [Paper](https://arxiv.org/abs/2510.08517) | [Website](https://graliuce.github.io/cart-page/)
 
 **Demystifying the Mechanisms Behind Emergent Exploration in Goal-conditioned RL** \
-Mahsa Bastankhah\\*, **Grace Liu\\***, Dilip Arumugam, Thomas L. Griffiths, Benjamin Eysenbach \
+Mahsa Bastankhah&ast;, **Grace Liu&ast;**, Dilip Arumugam, Thomas L. Griffiths, Benjamin Eysenbach \
 *NYRL Workshop 2025 (Oral)* \
 [Paper](https://arxiv.org/abs/2510.14129) | [Website](https://mahsa-bastankhah.github.io/demystifying-single-goal-exploration/)
 
