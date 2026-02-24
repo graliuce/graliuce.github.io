@@ -15,7 +15,7 @@ Hi I'm Grace. I'm a second-year PhD student in the MLD department at CMU. I rese
 
 **Demystifying the Mechanisms Behind Emergent Exploration in Goal-conditioned RL** \
 Mahsa Bastankhah^, **Grace Liu^**, Dilip Arumugam, Thomas L. Griffiths, Benjamin Eysenbach \
-*NYRL Workshop 2025 (Oral)* \
+*ICLR 2026, NYRL Workshop 2025 (Oral)* \
 [Paper](https://arxiv.org/abs/2510.14129) | [Website](https://mahsa-bastankhah.github.io/demystifying-single-goal-exploration/)
 
 **A Single Goal is All You Need: Skills and Exploration Emerge from Contrastive RL without Rewards, Demonstrations, or Subgoals**\
