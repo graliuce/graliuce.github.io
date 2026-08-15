@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi I'm Grace. I'm a PhD candidate in the MLD department at CMU. I study the challenges and opportunities of human-AI collaboration with increasingly capable AI agents at both the individual (cognitive) and societal scale. I am advised by [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and work closely with [Rachit Dubey](https://rachit-dubey.github.io/) and [Benjamin Eysenbach](https://ben-eysenbach.github.io/). I am very grateful to have been advised by [Tom Griffiths](https://cocosci.princeton.edu/tom/tom.php) and [Gabe Vecchi](https://vecchi.princeton.edu/people/gabriel-vecchi) during my undergrad and Master's at Princeton. I am also fortunate to be supported by the NSF GRFP fellowship.
+Hi I'm Grace. I'm a PhD candidate in the MLD department at CMU. I study the challenges and opportunities of human-AI collaboration with increasingly capable AI agents at both the individual (cognitive) and societal scale. I am advised by [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and work closely with [Rachit Dubey](https://rachit-dubey.github.io/) and [Benjamin Eysenbach](https://ben-eysenbach.github.io/). I am very grateful to have been advised by [Tom Griffiths](https://cocosci.princeton.edu/tom/tom.php) and [Gabe Vecchi](https://vecchi.princeton.edu/people/gabriel-vecchi) during my undergrad and Master's at Princeton. I am also fortunate to be supported by the NSF GRFP fellowship. You can reach me at [gliu2@andrew.cmu.edu](mailto:gliu2@andrew.cmu.edu).
 
 ## Publications
 **AI Assistance Reduces Persistence and Hurts Independent Performance**\
