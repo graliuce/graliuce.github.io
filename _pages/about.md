@@ -13,7 +13,7 @@ Hi I'm Grace. I'm a PhD student in the MLD department at CMU. I study the challe
 <u>Grace Liu</u>, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey \
 *COLM 2026* \
 [Paper](https://arxiv.org/abs/2604.04721) | [Website](https://ai-project-website.github.io/AI-assistance-reduces-persistence/)\
-Media coverage: [New York Times](https://www.nytimes.com/interactive/2026/09/29/magazine/ai-chatbots-brain-development-study.html?smid=nytcore-ios-share),[Washington Post](https://www.washingtonpost.com/technology/2026/07/07/how-stop-chatgpt-ruining-how-you-think/), [TIME](https://time.com/article/2026/05/19/is-ai-making-our-brains-weaker/), [The Atlantic](https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/), [The Independent](https://www.independent.co.uk/news/uk/home-news/ai-brain-effect-psychology-learning-study-frog-b2959803.html)
+Media coverage: [New York Times](https://www.nytimes.com/interactive/2026/09/29/magazine/ai-chatbots-brain-development-study.html?smid=nytcore-ios-share), [Washington Post](https://www.washingtonpost.com/technology/2026/07/07/how-stop-chatgpt-ruining-how-you-think/), [TIME](https://time.com/article/2026/05/19/is-ai-making-our-brains-weaker/), [The Atlantic](https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/), [The Independent](https://www.independent.co.uk/news/uk/home-news/ai-brain-effect-psychology-learning-study-frog-b2959803.html)
 
 **CaRT: Teaching LLM Agents to Know When They Know Enough**\
 <u>Grace Liu</u>&#42;, Yuxiao Qu&#42;, Jeff Schneider, Aarti Singh, Aviral Kumar \
